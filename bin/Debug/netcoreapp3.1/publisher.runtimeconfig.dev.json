@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/sherocoder/.dotnet/store/|arch|/|tfm|",
+      "/Users/sherocoder/.nuget/packages"
+    ]
+  }
+}
